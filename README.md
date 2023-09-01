@@ -1,2 +1,2 @@
 # test
-test or study
+just test or study
